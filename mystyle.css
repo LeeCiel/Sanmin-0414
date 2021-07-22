@@ -40,5 +40,5 @@ body{
     animation: loop 10s -5s linear infinite;
 }
 .loop_wrap img:last-child{
-    animation: loop2 5s linear infinite;
+    animation: loop2 10s linear infinite;
 }
