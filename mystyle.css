@@ -3,6 +3,8 @@ html{
 }
 h1{color: rgb(24, 22, 24);
 }
+h2{color: rgb(240, 148, 240);
+}
 /*h1見出しのフォント指定*/
 h1{
     font-family: serif;
