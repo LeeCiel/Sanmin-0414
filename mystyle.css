@@ -42,3 +42,9 @@ body{
 .loop_wrap img:last-child{
     animation: loop2 10s linear infinite;
 }
+.flex-container{
+    display: flex;
+}
+.image-wrap{
+    margin: 300px 300px;;
+}
